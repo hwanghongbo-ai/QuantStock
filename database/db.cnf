@@ -1,0 +1,8 @@
+[mysql]
+#host =192.168.124.15
+host =localhost
+user =root
+password =hhb
+database =stock
+initsize =3
+maxsize =6
